@@ -66,7 +66,7 @@ Tableau was used to conduct the sales analysis and answer the problem statement.
    Furthermore, the country with the highest sales in the US market is United States with sales of 457,688 and the country with the highest sales in the LATAM market is El Salvador with sales of 153,639
    
 ## Recommendations
-Based on the analysis, the following strategies are recommended:
+Based on the analysis, the following are recommended:
 - Since phones generated the highest sales figure compared to other products, the company should implement targeted strategies to capitalize on this success. For example, they could focus on strengthening product bundling by creating attractive packages that combine phones with complementary items like accessories, encouraging customers to make larger purchases.
 -  Global Superstore could develop a targeted international marketing strategy for APAC, EU, US and LATAM markets. This could involve focusing on enhancing customer experience in these markets which can be achieved through localized customer support, addressing regional concerns promptly, and offering region-specific customer incentives
 
