@@ -2,9 +2,8 @@
 ## Introduction
 This is a SQL and Tableau project on the sales analysis of a global superstore. This project aims to provide insights to answer important questions and help the superstore make data driven decisions.
 The dataset used in this project can be found in Kaggle.
-## Tools
 ## Exploratory Data Analysis
-The following explorary analysis was conducted in Microsoft SQL Server to understand the dataset.
+The following explorary data analysis was conducted in Microsoft SQL Server to understand the dataset.
 Executed the query below to find out the number of items in the data
 ```sql
 select count(*) from [dbo].[Orders$]
