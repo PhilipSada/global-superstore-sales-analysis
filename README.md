@@ -8,7 +8,7 @@ The dataset used in this project can be found in Kaggle.
 
 
 ## Problem Statement
-1. What is the total sales of the superstore?
+1. What is the total sales for the superstore?
 2. Which product has the highest overall sales?
 3. Which market has the highest overall sales?
 4. Which country has the highest overall sales?
