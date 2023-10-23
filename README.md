@@ -52,3 +52,8 @@ Tableau was used to conduct the sales analysis and answer the problem statement.
 - Filters
 - Tooltips
 - Dashboard Actions (Go to URL, Filter)
+
+![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/bc682b86-62db-4158-8f74-0e4a7b1bdcad)
+![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/62fb8052-555c-44e7-9d7c-2b7bb48eb637)
+![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/418406cf-66c3-4220-af1c-12999483fdba)
+
