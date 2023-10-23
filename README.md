@@ -4,6 +4,7 @@ This is a SQL and Tableau project on the sales analysis of a global superstore. 
 The dataset used in this project can be found in Kaggle.
 ## Exploratory Data Analysis
 The following explorary data analysis was conducted in Microsoft SQL Server to understand the dataset.
+
 The query below was executed to find out the number of items in the data
 ```sql
 select count(*) from [dbo].[Orders$]
