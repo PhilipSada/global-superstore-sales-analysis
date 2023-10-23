@@ -45,6 +45,7 @@ The query below was executed to check if the customer can order multiple items. 
 select min(a.NumOfDays) MinDays, max(a.NumOfDays) MaxDays from (
 select DATEDIFF(DAY, [Order Date], [Ship Date]) as NumOfDays, * from [dbo].[Orders$] where [Ship Mode] = 'Second Class'
 ) a
+```
 
 ## Data Analysis
 Tableau was used to conduct the sales analysis and answer the problem statement. The following Tableau features were some of the features incorporated for this project:
