@@ -2,6 +2,8 @@
 ## Project Overview
 This is a SQL and Tableau project on the sales analysis of a global superstore. This project aims to provide insights to answer important questions and help the superstore make data driven decisions.
 The dataset used in this project can be found in Kaggle.
+![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/742c681b-523b-4cf3-921e-31960cb6702d)
+
 
 ## Problem Statement
 1. What is the total sales of the superstore?
