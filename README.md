@@ -56,6 +56,8 @@ Tableau was used to conduct the sales analysis and answer the problem statement.
 ![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/bc682b86-62db-4158-8f74-0e4a7b1bdcad)
 ![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/62fb8052-555c-44e7-9d7c-2b7bb48eb637)
 ![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/418406cf-66c3-4220-af1c-12999483fdba)
+
+![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/aadd314b-37c6-4e01-bb54-11a81444a085)
 ![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/7d0a5861-b221-44f7-b92e-e30ce28a7b41)
 ![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/51270453-82fa-4028-8860-ec4b6b18049d)
 ![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/8f0bfdcf-e6d6-40a4-9ccd-78a2d1aba1be)
