@@ -1,7 +1,14 @@
 # Global Super Store: Sales Analysis
-## Introduction
+## Project Overview
 This is a SQL and Tableau project on the sales analysis of a global superstore. This project aims to provide insights to answer important questions and help the superstore make data driven decisions.
 The dataset used in this project can be found in Kaggle.
+
+## Problem Statement
+1. What is the total sales of the superstore?
+2. Which product has the highest overall sales?
+3. Which market has the highest overall sales?
+4. Which country has the highest overall sales?
+   
 ## Exploratory Data Analysis
 The following explorary data analysis was conducted in Microsoft SQL Server to understand the dataset.
 
@@ -32,3 +39,5 @@ The query below was executed to check if the customer can order multiple items. 
 select min(a.NumOfDays) MinDays, max(a.NumOfDays) MaxDays from (
 select DATEDIFF(DAY, [Order Date], [Ship Date]) as NumOfDays, * from [dbo].[Orders$] where [Ship Mode] = 'Second Class'
 ) a
+## Data Analysis
+Tableau is used to conduct the sales analysis and answer the problem statement.
