@@ -4,3 +4,6 @@ This is a SQL and Tableau project on the sales analysis of a global superstore. 
 The dataset used in this project can be found in Kaggle.
 ## Tools
 ## Exploratory Data Analysis
+```sql
+select count(*) from [dbo].[Orders$]
+```
