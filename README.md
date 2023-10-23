@@ -46,7 +46,7 @@ select DATEDIFF(DAY, [Order Date], [Ship Date]) as NumOfDays, * from [dbo].[Orde
 ) a
 ```
 
-## Data Analysis
+## Data Analysis and Visuals
 Tableau was used to conduct the sales analysis and answer the problem statement. The following Tableau features were some of the features incorporated for this project:
 - Filters
 - Tooltips
