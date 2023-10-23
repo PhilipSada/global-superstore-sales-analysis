@@ -10,10 +10,9 @@ You can interact with the dashboard in tableau public [here](https://public.tabl
 
 
 ## Problem Statement
-1. What is the total sales for the superstore?
-2. Which product has the highest overall sales?
-3. Which market has the highest overall sales?
-4. Which country has the highest overall sales?
+1. Which product generates the most overall sales?
+2. Which markets are  our top selling markets?
+3. Which country in each of those markets has the highest overall sales?
    
 ## Exploratory Data Analysis
 The following explorary data analysis was conducted in Microsoft SQL Server to understand the dataset.
@@ -54,12 +53,15 @@ Tableau was used to conduct the sales analysis and answer the problem statement.
 - Dashboard Actions (Go to URL, Filter)
 
 ![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/bc682b86-62db-4158-8f74-0e4a7b1bdcad)
-![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/62fb8052-555c-44e7-9d7c-2b7bb48eb637)
-![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/418406cf-66c3-4220-af1c-12999483fdba)
-
 ![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/aadd314b-37c6-4e01-bb54-11a81444a085)
 ![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/7d0a5861-b221-44f7-b92e-e30ce28a7b41)
 ![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/51270453-82fa-4028-8860-ec4b6b18049d)
 ![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/8f0bfdcf-e6d6-40a4-9ccd-78a2d1aba1be)
+
+1. From the dashboard, phones generated the most overall sales with a figure of 1,706,824
+2. From the dashboard, the top 4 markets of the global superstore are APAC, EU, US and LATAM with sales of 3,586K, 2,938K, 2,297K and 2,938K respectively.
+3. From the dashboard, the country with the highest sales in the APAC market is Australia with sales of 270,487. Also, the country with the highest sales in the EU market is United Kingdom with sales of 485,171.
+   Furthermore, the country with the highest sales in the US market is United States with sales of 457,688 and the country with the highest sales in the LATAM market is El Salvador with sales of 153,639
+   
 
 
