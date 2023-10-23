@@ -3,8 +3,10 @@
 This is a SQL and Tableau project on the sales analysis of a global superstore. This project aims to provide insights to answer important questions and help the superstore make data driven decisions.
 The dataset used in this project can be found in Kaggle.
 
+You can interact with the dashboard in tableau public [here](https://public.tableau.com/views/SalesDashboard2GlobalSuperstore_16978357780940/SalesDashboard3?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ![Dashboard](https://github.com/PhilipSada/global-superstore-sales-analysis/assets/55988995/742c681b-523b-4cf3-921e-31960cb6702d)
+
 
 
 ## Problem Statement
@@ -43,5 +45,9 @@ The query below was executed to check if the customer can order multiple items. 
 select min(a.NumOfDays) MinDays, max(a.NumOfDays) MaxDays from (
 select DATEDIFF(DAY, [Order Date], [Ship Date]) as NumOfDays, * from [dbo].[Orders$] where [Ship Mode] = 'Second Class'
 ) a
+
 ## Data Analysis
-Tableau is used to conduct the sales analysis and answer the problem statement.
+Tableau was used to conduct the sales analysis and answer the problem statement. The following Tableau features were some of the features incorporated for this project:
+- Filters
+- Tooltips
+- Dashboard Actions (Go to URL, Filter)
